@@ -1,8 +1,11 @@
-Uses the [p5.js library] to draw a curve based on a text string.
+This is a demonstration using the [p5.js library] to draw a curve
+based on a text string.
 
-View `./index.html` in a browser. `./index.html` sources the
-p5.js library and `./script.js`, which does the work.
+View live at https://rkuester.github.io/path-art. Get one unique
+work of art with every refresh.
 
+For development, view `./index.html` in a browser. `./index.html`
+sources the p5.js library and `./script.js`, which does the work.
 Execute `./serve.sh` in the working directory to serve it using
 Python's http.serve module.
 
