@@ -11,5 +11,5 @@ See also
 - the [p5.js library reference]
 
 [p5.js library]: https://p5js.org
-[p5.js library]: https://p5js.org/reference/
+[p5.js library reference]: https://p5js.org/reference/
 [Getting Started with P5.js]: http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf
